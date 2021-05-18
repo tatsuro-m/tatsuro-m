@@ -10,7 +10,20 @@
 [![](https://raw.githubusercontent.com/tatsuro-m/tatsuro-m/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tatsuro-m/tatsuro-m/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-#### Development Environment
+### 😍 I like ...
+
+[![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-React-000?style=flat&logo=react)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-GitHubActions-000?style=flat&logo=github)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Slack-000?style=flat&logo=slack)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Notion-000?style=flat&logo=notion)](https://github.com/rinchsan)
+
+#### 👨‍💻 Development Environment
 
 - Favorite Languages: Go
 - Editor: IntelliJ IDEA
