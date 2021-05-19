@@ -1,4 +1,4 @@
-### 👋 Hi! I'm tasuro-m
+### 👋 Hi! I'm tatsuro-m
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuro-m&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
